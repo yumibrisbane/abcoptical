@@ -1,0 +1,381 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@media screen and (min-width:768px){
+html {
+  font-size: 100%;
+  width: 100%;
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #edede9;
+}
+title {
+  font-size: 20px;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 14px;
+}
+#ABCOptical_navi ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  font-size: 14px;
+}
+#ABCOptical_navi ul li{
+  margin-left: 30px;
+}
+img {
+  max-width: 100%;
+}
+.logo{
+  text-align: center;
+}
+.logo p {
+  text-align: center;
+}
+.main_visual{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin: 0 auto 25px;
+}
+h2 {
+  text-align: center;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  font-size: 16px;
+}
+.aboutus {
+  background-color: #d6ccc2;
+  display: flex;
+}
+.aboutus img{
+  width: 47%;
+  height: 50%;
+  padding-left: 5vh;
+}
+.aboutus p {
+  padding-top: 10vh;
+  padding-right: 5vh;
+  padding-left: 5vh;
+  padding-bottom: 5vh;
+  line-height: 1.7;
+  font-size: 14px;
+}
+.Services {
+  background-image: url(Images/ABC\ Optical\ image3.jpg);
+  background-color: #f5ebe0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.background {
+  background-color: rgba(255,255,255,0.5);
+}
+.Services ul li {
+  font-size: 14px;
+  line-height: 2.0;
+  text-align: center;
+}
+th,td {
+  border: solid 2px;
+  padding: 14px;
+}
+table {
+  padding-bottom: 3vh;
+  font-size: 10px;
+  padding-left: 28%;
+}
+.findus {
+  background-color: #e3d5ca;
+  text-align: center;
+  padding-top: 5vh;
+}
+footer {
+  background-color: #d5bdaf;
+  font-size: 14px;
+}
+.footerimage {
+  text-align: center;
+  padding-bottom: 3vh;
+}
+.footer_navi {
+  padding: 10px 0;
+}
+.footer_navi ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+.footer_navi ul li{
+  margin-left: 20px;
+}
+.copyright{
+  display: block;
+  text-align: center; 
+}
+}
+
+@media only screen and (min-width:767px) and (max-width:1280px){
+  html {
+    font-size: 100%;
+    width: 100%;
+    height: 100%;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #edede9;
+  }
+  title {
+    font-size: 20px;
+  }
+  a {
+    color: black;
+  }
+  a:hover {
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  #ABCOptical_navi ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+  }
+  #ABCOptical_navi ul li{
+    margin-left: 30px;
+  }
+  img {
+    max-width: 100%;
+  }
+  .logo{
+    text-align: center;
+  }
+  .logo p {
+    text-align: center;
+  }
+  .main_visual{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto 25px;
+  }
+  main h2 {
+    text-align: center;
+    font-size: 16px;
+  }
+  .aboutus {
+    background-color: #d6ccc2;
+    padding-bottom: 3vh;
+  }
+  .aboutus img{
+    width: 100%;
+    height: 100%;
+  }
+  .aboutus p {
+    padding-top: 10vh;
+    padding-right: 5vh;
+    padding-left: 5vh;
+    line-height: 1.7;
+    font-size: 14px;
+  }
+  .Services {
+    background-image: url(Images/ABC\ Optical\ image3.jpg);
+    background-color: #f5ebe0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .background {
+    background-color: rgba(255,255,255,0.5);
+  }
+  .Services ul li {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  th,td {
+    border: solid 2px;
+    padding: 14px;
+  }
+  table {
+    padding-bottom: 3vh;
+    font-size: 10px;
+  }
+  .findus {
+    background-color: #e3d5ca;
+    text-align: center;
+    padding-top: 5vh;
+  }
+  footer {
+    background-color: #d5bdaf;
+    font-size: 14px;
+  }
+  .footerimage {
+    text-align: center;
+  }
+  .footer_navi {
+    padding: 10px 0;
+  }
+  .footer_navi ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .footer_navi ul li{
+    margin-left: 20px;
+  }
+  .copyright{
+    display: block;
+    text-align: center; 
+  }
+}
+
+@media screen and (max-width:767px){
+  html {
+    font-size: 100%;
+    width: 100%;
+    height: 100%;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #edede9;
+  }
+  title {
+    font-size: 20px;
+  }
+  a {
+    color: black;
+  }
+  a:hover {
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  #ABCOptical_navi ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+  }
+  #ABCOptical_navi ul li{
+    margin-left: 30px;
+  }
+  img {
+    max-width: 100%;
+  }
+  .logo{
+    text-align: center;
+  }
+  .logo p {
+    text-align: center;
+  }
+  .main_visual{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin: 0 auto 25px;
+  }
+  main h2 {
+    text-align: center;
+    font-size: 16px;
+  }
+  .aboutus {
+    background-color: #d6ccc2;
+    padding-bottom: 3vh;
+  }
+  .aboutus img{
+    width: 100%;
+    height: 100%;
+  }
+  .aboutus p {
+    padding-top: 10vh;
+    padding-right: 5vh;
+    padding-left: 5vh;
+    line-height: 1.7;
+    font-size: 14px;
+  }
+  .Services {
+    background-image: url(Images/ABC\ Optical\ image3.jpg);
+    background-color: #f5ebe0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .background {
+    background-color: rgba(255,255,255,0.5);
+  }
+  .Services ul li {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  th,td {
+    border: solid 2px;
+    padding: 14px;
+  }
+  table {
+    padding-bottom: 3vh;
+    font-size: 10px;
+  }
+  .findus {
+    background-color: #e3d5ca;
+    text-align: center;
+    padding-top: 5vh;
+  }
+  footer {
+    background-color: #d5bdaf;
+    font-size: 14px;
+  }
+  .footerimage {
+    text-align: center;
+  }
+  .footer_navi {
+    padding: 10px 0;
+  }
+  .footer_navi ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  .footer_navi ul li{
+    margin-left: 20px;
+  }
+  .copyright{
+    display: block;
+    text-align: center; 
+  }
+}
