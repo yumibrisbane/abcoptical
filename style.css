@@ -15,7 +15,7 @@ body {
   padding: 0;
 }
 header {
-  background-color: #edede9;
+  background-color: #e7ecef;
 }
 title {
   font-size: 20px;
@@ -62,7 +62,7 @@ h2 {
   font-size: 16px;
 }
 .aboutus {
-  background-color: #d6ccc2;
+  background-color: #274c77;
   display: flex;
 }
 .aboutus img{
@@ -80,7 +80,7 @@ h2 {
 }
 .Services {
   background-image: url(Images/ABC\ Optical\ image3.jpg);
-  background-color: #f5ebe0;
+  background-color: #6096ba;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -103,12 +103,12 @@ table {
   padding-left: 28%;
 }
 .findus {
-  background-color: #e3d5ca;
+  background-color: #a3cef1;
   text-align: center;
   padding-top: 5vh;
 }
 footer {
-  background-color: #d5bdaf;
+  background-color: #8b8c89;
   font-size: 14px;
 }
 .footerimage {
