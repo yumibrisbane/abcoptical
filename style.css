@@ -63,12 +63,12 @@ h2 {
 }
 .aboutus {
   background-color: #274c77;
-  text-align: center;
 }
 .aboutus img{
   width: 47%;
   height: 50%;
   padding-left: 5vh;
+  text-align: center;
 }
 .aboutus p {
   padding-top: 10vh;
