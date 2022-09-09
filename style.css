@@ -65,7 +65,7 @@ h2 {
   background-color: #274c77;
 }
 .aboutus img{
-  width: 100%;
+  width: 50%;
   height: 100%;
   padding-left: 5vh;
 }
@@ -358,8 +358,8 @@ footer {
     padding-top: 5vh;
   }
   iframe {
-    width: 50%;
-    height: 100%;
+    width: 200;
+    height: 200;
   }
   footer {
     background-color: #8b8c89;
