@@ -145,7 +145,7 @@ footer {
     padding: 0;
   }
   header {
-    background-color: #edede9;
+    background-color: #e7ecef;
   }
   title {
     font-size: 20px;
@@ -190,7 +190,7 @@ footer {
     font-size: 16px;
   }
   .aboutus {
-    background-color: #d6ccc2;
+    background-color: #274c77;
     padding-bottom: 3vh;
   }
   .aboutus img{
@@ -350,12 +350,12 @@ footer {
     font-size: 10px;
   }
   .findus {
-    background-color: #e3d5ca;
+    background-color: #a3cef1;
     text-align: center;
     padding-top: 5vh;
   }
   footer {
-    background-color: #d5bdaf;
+    background-color: #8b8c89;
     font-size: 14px;
   }
   .footerimage {
